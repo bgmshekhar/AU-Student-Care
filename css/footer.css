@@ -1,0 +1,44 @@
+footer {
+    background-color: #655f5f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    padding: 0;
+}
+
+.dev_info {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    gap: 4rem;
+    padding-bottom:0 ;
+    padding-top: .6rem;
+}
+
+.footer-item {
+    margin: 0;
+}
+
+.footer-item a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 1.1rem;
+}
+
+.dev_name{
+    font-size:1.5rem;
+    gap: 1.6rem;
+    margin-top: 0;
+    margin-bottom: .6rem;
+}
+
+.contact{
+    padding-bottom: 1rem;
+    padding-bottom: 0.2rem;
+}
+
+.contact a{
+    font-size: 1.3rem;
+    margin-right: 10rem;
+}

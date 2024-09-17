@@ -1,0 +1,217 @@
+[
+    {
+        "title": "No title",
+        "url": "\\footer.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\header.html",
+        "content": "No description"
+    },
+    {
+        "title": "College Portal",
+        "url": "\\index.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\books_marketplace\\book_sell.html",
+        "content": "No description"
+    },
+    {
+        "title": "Old Books Marketplace",
+        "url": "\\books_marketplace\\market_place.html",
+        "content": "No description"
+    },
+    {
+        "title": "College Map - College Portal",
+        "url": "\\college_map\\map1.html",
+        "content": "No description"
+    },
+    {
+        "title": "University of Allahabad Courses",
+        "url": "\\courses\\courses.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\dcp_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "Other Courses - University of Allahabad",
+        "url": "\\courses\\other_courses.html",
+        "content": "No description"
+    },
+    {
+        "title": "PG Courses - University of Allahabad",
+        "url": "\\courses\\pg_courses.html",
+        "content": "No description"
+    },
+    {
+        "title": "UG Courses - University of Allahabad",
+        "url": "\\courses\\ug_courses.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\lang_courses.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\pgdca_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\pg_rs_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\phd_ccourse.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\sanskrit_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "No title",
+        "url": "\\courses\\other_courses\\yoga_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "LLM Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\llm_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MA Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\ma_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MBA Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\mba_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MCA Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\mca_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MCom Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\mcom_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MFA Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\mfa_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MSc Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\msc_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "MTech Subjects - Allahabad University",
+        "url": "\\courses\\pg_courses\\mtech_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BA Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\ba_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\bca_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\bcom_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\bfa_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\bped_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BSc Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\bsc_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\btech_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "BCom Subjects - Allahabad University",
+        "url": "\\courses\\ug_courses\\llb_course.html",
+        "content": "No description"
+    },
+    {
+        "title": "Event Calendar - College Portal",
+        "url": "\\events\\event-calendar.html",
+        "content": "No description"
+    },
+    {
+        "title": "News Page",
+        "url": "\\news\\news.html",
+        "content": "No description"
+    },
+    {
+        "title": "News - AU Student Care",
+        "url": "\\news\\news1.html",
+        "content": "No description"
+    },
+    {
+        "title": "News - AU Student Care",
+        "url": "\\news\\news2.html",
+        "content": "No description"
+    },
+    {
+        "title": "News - AU Student Care",
+        "url": "\\news\\news3.html",
+        "content": "No description"
+    },
+    {
+        "title": "Contact - College Portal",
+        "url": "\\other\\contact.html",
+        "content": "No description"
+    },
+    {
+        "title": "Courses at Allahabad University",
+        "url": "\\other\\course-suggestions.html",
+        "content": "No description"
+    },
+    {
+        "title": "FAQ - College Portal",
+        "url": "\\other\\faq.html",
+        "content": "No description"
+    },
+    {
+        "title": "Book Marketplace - College Portal",
+        "url": "\\study_material\\book-marketplace.html",
+        "content": "No description"
+    },
+    {
+        "title": "Study Material - College Portal",
+        "url": "\\study_material\\study-material.html",
+        "content": "No description"
+    }
+]

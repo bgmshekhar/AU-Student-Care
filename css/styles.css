@@ -1,0 +1,184 @@
+h3{
+  color: rgb(11, 10, 10);
+}
+
+p{
+    color: black;
+}
+.hero, .event-calendar {
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+    width: 200px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+
+
+.hero {
+    background: linear-gradient(45deg, #cd5858, #f06595, #4784ad, #7db50e, #69396f, #666f49, #978b46,#23a87e,#a13c55,#c9732c);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    padding: 20px;
+}
+
+
+
+
+
+/* Search-result card style */
+/* Search box styling */
+
+  
+  /* Modal for search results */
+  .search-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .search-modal-content {
+    background-color: #8c676734;
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 90%;
+    max-height: 80%;
+    overflow-y: auto;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  }
+ 
+  
+  /* Search result cards */
+  .result-card {
+    background-color: #f9f9f990;
+    backdrop-filter: blur(10px);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .result-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .result-card h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #007bff;
+  }
+  
+  .result-card h3 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .result-card h3 a:hover {
+    text-decoration: underline;
+  }
+  
+  .result-card p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+
+  /* Modal close button */
+.close-btn {
+    font-size: 36px;  /* Increase the size of the cross icon */
+    width: 36px;
+    height: 37px;
+    font-weight: 1200%;
+    cursor: pointer;  /* Make the cursor change to pointer on hover */
+    float: right;
+    display: flex;
+    justify-content: center;
+    margin: -10px -10px 0 0;  /* Optional: Adjust margins to position it better */
+    color: #000000;
+    border: black;
+    border-radius: 30px;
+    background-color: rgb(191, 72, 8) ; /* Optional: Change the color of the close button */
+    
+  }
+  
+  .close-btn:hover {
+    color: #ff0000;  /* Optional: Change the color when hovering over the close button */
+  }
+
+
+
+
+
+
+
+
+/* Keyframes for gradient background change */
+@keyframes gradientBackground {
+        0% { background-position: 0% 0%; }
+        50% { background-position: 100% 100%; }
+        100% { background-position: 0% 0%; }
+    }
+  
+  
+.hero h2 {
+    margin-top: 20px;
+    padding: 5rem;
+    padding-bottom: 1rem
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background-color: #f4f4f4;
+    padding: 5rem;
+    border-radius: 8px;
+    transition: transform 0.3s;
+    border-color: blue;
+    width: 300px;
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}

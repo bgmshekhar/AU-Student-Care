@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University of Allahabad Courses</title>
+    <link rel="stylesheet" href="../css/table.css">
+    <link rel="stylesheet" href="../css/other_page.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <!-- <link rel="stylesheet" href="../css/"> -->
+    <link rel="stylesheet" href="../css/mediaquarry.css">
+    <style>
+        body {
+            background-color: #5d5151;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin: 40px 0;
+            font-size: 36px;
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+        }
+        ul li a {
+            display: block;
+            padding: 15px 40px;
+            background-color: #567885;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        ul li a:hover {
+            background-color: #3e697a;
+            transform: scale(1.05);
+        }
+        ul li a:active {
+            background-color: #264a57;
+        }
+
+        .courses{
+            padding-bottom: 25rem;
+        }
+        @media screen and (max-width: 768px) {
+            ul {
+                flex-direction: column;
+                align-items: center;
+            }
+            ul li a {
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="header"></div>
+
+    <h1>University of Allahabad Courses</h1>
+    
+    <ul class="courses">
+        <li><a href="ug_courses.html">UG Courses</a></li>
+        <li><a href="pg_courses.html">PG Courses</a></li>
+        <li><a href="other_courses.html">Other Courses</a></li>
+    </ul>
+ <!-- Include footer -->
+ <div w3-include-html="../../footer.html"></div>
+
+ <div id="footer"></div>
+
+ <script src="../header_footer.js"></script>
+ <script src="../js_files/header.js"></script>
+ <script src="../js_files/mobile_collaps.js"></script>
+ <script src="../js_files/nav_bar.js"></script>
+ <script src="../js_files/search.js"></script>
+
+</body>
+</html>
