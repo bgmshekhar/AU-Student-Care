@@ -12,5 +12,5 @@
       }
   
       // Load the header and footer
-      loadComponent('header.html', 'header');
-      loadComponent('footer.html', 'footer');
+      loadComponent('/AU-Student-Care.com/header.html', 'header');
+      loadComponent('/AU-Student-Care.com/footer.html', 'footer');
