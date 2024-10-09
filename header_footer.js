@@ -12,5 +12,5 @@
       }
   
       // Load the header and footer
-      loadComponent('../header.html', 'header');
-      loadComponent('../footer.html', 'footer');
+      loadComponent('header.html', 'header');
+      loadComponent('footer.html', 'footer');
