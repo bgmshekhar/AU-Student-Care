@@ -27,6 +27,6 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // Load the header and footer using dynamic paths
-  loadComponent(getPath('header.html'), 'header');  // Load header
-  loadComponent(getPath('footer.html'), 'footer');  // Load footer 
+  loadComponent(getPath('AU-Student-Care.in/header.html'), 'header');  // Load header
+  loadComponent(getPath('AU-Student-Care.in/footer.html'), 'footer');  // Load footer 
 });
